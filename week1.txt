@@ -1,1 +1,2 @@
 tao file week1
+thuoc file main
